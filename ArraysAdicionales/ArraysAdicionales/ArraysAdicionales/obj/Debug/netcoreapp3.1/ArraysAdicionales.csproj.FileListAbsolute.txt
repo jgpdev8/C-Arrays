@@ -1,0 +1,14 @@
+C:\Users\javie\Desktop\DAW\Programación\Arrays\ArraysAdicionales\ArraysAdicionales\ArraysAdicionales\bin\Debug\netcoreapp3.1\ArraysAdicionales.exe
+C:\Users\javie\Desktop\DAW\Programación\Arrays\ArraysAdicionales\ArraysAdicionales\ArraysAdicionales\bin\Debug\netcoreapp3.1\ArraysAdicionales.deps.json
+C:\Users\javie\Desktop\DAW\Programación\Arrays\ArraysAdicionales\ArraysAdicionales\ArraysAdicionales\bin\Debug\netcoreapp3.1\ArraysAdicionales.runtimeconfig.json
+C:\Users\javie\Desktop\DAW\Programación\Arrays\ArraysAdicionales\ArraysAdicionales\ArraysAdicionales\bin\Debug\netcoreapp3.1\ArraysAdicionales.runtimeconfig.dev.json
+C:\Users\javie\Desktop\DAW\Programación\Arrays\ArraysAdicionales\ArraysAdicionales\ArraysAdicionales\bin\Debug\netcoreapp3.1\ArraysAdicionales.dll
+C:\Users\javie\Desktop\DAW\Programación\Arrays\ArraysAdicionales\ArraysAdicionales\ArraysAdicionales\bin\Debug\netcoreapp3.1\ArraysAdicionales.pdb
+C:\Users\javie\Desktop\DAW\Programación\Arrays\ArraysAdicionales\ArraysAdicionales\ArraysAdicionales\obj\Debug\netcoreapp3.1\ArraysAdicionales.csproj.AssemblyReference.cache
+C:\Users\javie\Desktop\DAW\Programación\Arrays\ArraysAdicionales\ArraysAdicionales\ArraysAdicionales\obj\Debug\netcoreapp3.1\ArraysAdicionales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\javie\Desktop\DAW\Programación\Arrays\ArraysAdicionales\ArraysAdicionales\ArraysAdicionales\obj\Debug\netcoreapp3.1\ArraysAdicionales.AssemblyInfoInputs.cache
+C:\Users\javie\Desktop\DAW\Programación\Arrays\ArraysAdicionales\ArraysAdicionales\ArraysAdicionales\obj\Debug\netcoreapp3.1\ArraysAdicionales.AssemblyInfo.cs
+C:\Users\javie\Desktop\DAW\Programación\Arrays\ArraysAdicionales\ArraysAdicionales\ArraysAdicionales\obj\Debug\netcoreapp3.1\ArraysAdicionales.csproj.CoreCompileInputs.cache
+C:\Users\javie\Desktop\DAW\Programación\Arrays\ArraysAdicionales\ArraysAdicionales\ArraysAdicionales\obj\Debug\netcoreapp3.1\ArraysAdicionales.dll
+C:\Users\javie\Desktop\DAW\Programación\Arrays\ArraysAdicionales\ArraysAdicionales\ArraysAdicionales\obj\Debug\netcoreapp3.1\ArraysAdicionales.pdb
+C:\Users\javie\Desktop\DAW\Programación\Arrays\ArraysAdicionales\ArraysAdicionales\ArraysAdicionales\obj\Debug\netcoreapp3.1\ArraysAdicionales.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\javie\Desktop\DAW\Programación\Arrays\Ocalimocho\Ocalimocho\Ocalimocho\bin\Debug\netcoreapp3.1\Ocalimocho.exe
+C:\Users\javie\Desktop\DAW\Programación\Arrays\Ocalimocho\Ocalimocho\Ocalimocho\bin\Debug\netcoreapp3.1\Ocalimocho.deps.json
+C:\Users\javie\Desktop\DAW\Programación\Arrays\Ocalimocho\Ocalimocho\Ocalimocho\bin\Debug\netcoreapp3.1\Ocalimocho.runtimeconfig.json
+C:\Users\javie\Desktop\DAW\Programación\Arrays\Ocalimocho\Ocalimocho\Ocalimocho\bin\Debug\netcoreapp3.1\Ocalimocho.runtimeconfig.dev.json
+C:\Users\javie\Desktop\DAW\Programación\Arrays\Ocalimocho\Ocalimocho\Ocalimocho\bin\Debug\netcoreapp3.1\Ocalimocho.dll
+C:\Users\javie\Desktop\DAW\Programación\Arrays\Ocalimocho\Ocalimocho\Ocalimocho\bin\Debug\netcoreapp3.1\Ocalimocho.pdb
+C:\Users\javie\Desktop\DAW\Programación\Arrays\Ocalimocho\Ocalimocho\Ocalimocho\obj\Debug\netcoreapp3.1\Ocalimocho.csproj.AssemblyReference.cache
+C:\Users\javie\Desktop\DAW\Programación\Arrays\Ocalimocho\Ocalimocho\Ocalimocho\obj\Debug\netcoreapp3.1\Ocalimocho.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\javie\Desktop\DAW\Programación\Arrays\Ocalimocho\Ocalimocho\Ocalimocho\obj\Debug\netcoreapp3.1\Ocalimocho.AssemblyInfoInputs.cache
+C:\Users\javie\Desktop\DAW\Programación\Arrays\Ocalimocho\Ocalimocho\Ocalimocho\obj\Debug\netcoreapp3.1\Ocalimocho.AssemblyInfo.cs
+C:\Users\javie\Desktop\DAW\Programación\Arrays\Ocalimocho\Ocalimocho\Ocalimocho\obj\Debug\netcoreapp3.1\Ocalimocho.csproj.CoreCompileInputs.cache
+C:\Users\javie\Desktop\DAW\Programación\Arrays\Ocalimocho\Ocalimocho\Ocalimocho\obj\Debug\netcoreapp3.1\Ocalimocho.dll
+C:\Users\javie\Desktop\DAW\Programación\Arrays\Ocalimocho\Ocalimocho\Ocalimocho\obj\Debug\netcoreapp3.1\Ocalimocho.pdb
+C:\Users\javie\Desktop\DAW\Programación\Arrays\Ocalimocho\Ocalimocho\Ocalimocho\obj\Debug\netcoreapp3.1\Ocalimocho.genruntimeconfig.cache
